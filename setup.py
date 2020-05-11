@@ -2,9 +2,9 @@ from distutils.core import setup
 
 project_name = "Tidepool Data Science Project"
 version = "0.1.0"
-author = "Your Name"
-author_email = "YourName@tidepool.org"
-package_name = "tidepool_data_science_project"  # this is the thing you actually import
+author = "Ed Nykaza"
+author_email = "ed@tidepool.org"
+package_name = "how_loop_dosing_works"  # this is the thing you actually import
 
 setup(
     name=project_name,
