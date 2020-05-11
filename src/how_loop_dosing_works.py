@@ -6,7 +6,7 @@ from plotly.offline import plot
 import plotly.graph_objs as go
 import plotly.express as px
 from pyloopkit.loop_data_manager import update
-from input_data_tools import input_table_to_dict, dict_inputs_to_dataframes
+from src.input_data_tools import input_table_to_dict, dict_inputs_to_dataframes
 
 # %% REFERENCES
 """
