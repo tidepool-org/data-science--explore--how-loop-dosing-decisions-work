@@ -11,7 +11,7 @@ from src.input_data_tools import input_table_to_dict, dict_inputs_to_dataframes
 # %% REFERENCES
 """
 A version of this code in google colab and stored in github gist is located here:
-https://colab.research.google.com/gist/ed-nykaza/a456132822744f56f936168749fda83b/how-loop-dosing-works-etn-2020-05-09-v-0-1-0.ipynb
+https://colab.research.google.com/gist/ed-nykaza/fe631aec6166a50b50ac9e8e5bc0eeb7/how-loop-dosing-decisions-work-etn-2020-05-11-v-0-1-0.ipynb
 
 Credit for the color palette used in this animation goes to colorbrewer:
 https://colorbrewer2.org/#type=qualitative&scheme=Set1&n=5
