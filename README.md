@@ -1,6 +1,6 @@
 # How Loop Dosing Decisions Work
-![](figures/dosing-threshold-example-1.png)
-
+![](figures/dosing-safety-threshold-example.png)
+    
 ## Project Objective
 The purpose of this project is to demonstrate how loop dosing decisions work using a simple animation (slider).
 
